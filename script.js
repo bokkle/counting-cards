@@ -36,4 +36,4 @@ cc(7);
 cc("K");
 cc("A");
 
-//Output "0 Hold"
+//Output "0 Bet low"
